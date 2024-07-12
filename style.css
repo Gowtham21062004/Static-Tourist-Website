@@ -1,0 +1,75 @@
+.style{
+    background-image: url(./upo-lf-KrangSuri-Falls-1.jpg);
+    width: 500px;
+    height: 400px;
+    margin-left: 190px;
+    border: 1px solid rgb(230, 198, 198);
+    border-radius: 20px;
+}
+.content1{
+    text-align: center;
+    position: relative;
+    bottom: 420px;
+    padding: 5px;
+    left: 150px;
+}
+label{
+    display: block;
+    color: blueviolet;
+    font-size: large;
+    position: relative;
+    top: 10px;
+    right: 78px;
+}
+p{
+    font-size: large;
+    position: relative;
+    bottom: 20px;
+}
+.input{
+    border: 2px solid rgb(109, 109, 227);
+    padding: 5px;
+    font-size: large;
+}
+.link{
+  text-decoration: none;
+  font-weight: 200;
+  position: relative;
+  left: 65px;
+  bottom: 20px;
+}
+button{
+    background-color: rgb(109, 109, 227);
+    color: white;
+    padding: 10px;
+    position: relative;
+    bottom: 30px;
+}
+.icons{
+    padding: 15px;
+    justify-content: space-between;
+    position: relative;
+    bottom: 80px;
+}
+.img1{
+    height: 49px;
+}
+.form{
+    position: relative;
+    bottom: 40px;
+}
+.link1{
+    text-decoration: none;
+}
+hr{
+    width: 300px;
+    position: relative;
+    bottom: 20px;
+}
+.h1{
+    color: rgb(223, 143, 45);
+}
+.p{
+    text-align: justify;
+    color: chartreuse;
+}
